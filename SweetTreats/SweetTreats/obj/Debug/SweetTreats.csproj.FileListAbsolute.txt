@@ -1,6 +1,0 @@
-C:\Users\Admin-PC\Desktop\Projects\SweetTreats\SweetTreats\bin\Debug\SweetTreats.exe.config
-C:\Users\Admin-PC\Desktop\Projects\SweetTreats\SweetTreats\bin\Debug\SweetTreats.exe
-C:\Users\Admin-PC\Desktop\Projects\SweetTreats\SweetTreats\bin\Debug\SweetTreats.pdb
-C:\Users\Admin-PC\Desktop\Projects\SweetTreats\SweetTreats\obj\Debug\SweetTreats.csproj.CoreCompileInputs.cache
-C:\Users\Admin-PC\Desktop\Projects\SweetTreats\SweetTreats\obj\Debug\SweetTreats.exe
-C:\Users\Admin-PC\Desktop\Projects\SweetTreats\SweetTreats\obj\Debug\SweetTreats.pdb
